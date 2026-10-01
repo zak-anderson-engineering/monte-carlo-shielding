@@ -28,3 +28,5 @@ plt.loglog(Ns, rms_errors, "o", label="Measured RMS error (20 runs each)")
 plt.loglog(Ns, expected, label=r"Theory: $\sqrt{T(1-T)/N}$")
 plt.xlabel("Number of photons N")
 plt.ylabel
+plt.savefig("figures/convergence.png", dpi=150)
+plt.show()
