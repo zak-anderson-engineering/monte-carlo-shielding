@@ -18,4 +18,12 @@ MATERIALS = {
         "pair": 7.031e-5,       # nuclear + electron field
         "total": 5.350e-2,      # with coherent
     },
+        "concrete": {
+        "density": 2.3,         # g/cm^3, NIST ordinary concrete
+        "coherent": 7.093e-5,
+        "incoherent": 5.796e-2,
+        "photoelectric": 1.516e-5,
+        "pair": 2.633e-5,       # nuclear + electron field
+        "total": 5.807e-2,      # with coherent
+    },
 }
