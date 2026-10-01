@@ -1,2 +1,3 @@
-# monte-carlo-shielding
-Monte Carlo photon transport simulation for radiation shielding, validated against Beer–Lambert attenuation
+# Monte Carlo Radiation Shielding Simulation
+
+Work in progress.
