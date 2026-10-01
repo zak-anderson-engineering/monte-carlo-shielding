@@ -10,4 +10,12 @@ MATERIALS = {
         "pair": 3.781e-4,       # nuclear + electron field
         "total": 5.875e-2,      # with coherent
     },
+    "iron": {
+        "density": 7.874,       # g/cm^3
+        "coherent": 2.808e-4,
+        "incoherent": 5.292e-2,
+        "photoelectric": 2.256e-4,
+        "pair": 7.031e-5,       # nuclear + electron field
+        "total": 5.350e-2,      # with coherent
+    },
 }
