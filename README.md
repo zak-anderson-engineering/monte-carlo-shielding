@@ -1,7 +1,5 @@
 # Monte Carlo Radiation Shielding Simulation
 
-# Monte Carlo Radiation Shielding Simulation
-
 A Monte Carlo photon transport simulation for gamma-ray shielding at 1.25 MeV (roughly Co-60), comparing lead, iron and concrete. Attenuation data is from NIST XCOM.
 
 ## What it does
